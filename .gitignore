@@ -326,6 +326,14 @@ testem.log
 /e2e/*.js
 /e2e/*.map
 
+
 #System Files
 .DS_Store
 Thumbs.db
+
+node_modules
+typings
+/app/**/*.js
+/app/**/*.map
+.vscode/
+node_modules*
